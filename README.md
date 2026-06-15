@@ -8,3 +8,8 @@ analyzing goal trends.
 
 [varzeshhh](www.varzesh3.com)
 
+## Statistics
+
+Goals
+Assists
+Possession
